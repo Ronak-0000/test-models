@@ -1,0 +1,9 @@
+streamlit
+torch
+lightgbm
+scikit-learn
+sgp4
+joblib
+numpy
+huggingface_hub
+plotly
